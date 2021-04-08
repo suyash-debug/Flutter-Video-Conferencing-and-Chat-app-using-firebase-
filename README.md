@@ -2,6 +2,7 @@
 
 A flutter video conferencing and chat app. 
 Firebase is being used as a backened server for chat and Agora SDK is used for video conferencing.
+Sign up and Sign In feature is fully implemented using firebase auth.
 
 # Previews
 |   |   |   |
